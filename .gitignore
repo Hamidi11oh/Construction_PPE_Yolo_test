@@ -1,0 +1,18 @@
+# YOLO training outputs
+runs/
+
+# YOLO / dataset cache
+*.cache
+
+# Datasets
+datasets/
+
+# Model weights
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
